@@ -10,8 +10,8 @@ One trend we can observe based on the precipitation plot is that some months hav
 
 
 
-![Precipitation_2016_2017](precipitation_16_17.png)
-![Temperature_Top_Station_2016_2017](top_station_temp_16_17.png)
+![Precipitation_2016_2017](images/precipitation_16_17.png)
+![Temperature_Top_Station_2016_2017](images/top_station_temp_16_17.png)
 
 
 ## Results: June and December
@@ -21,8 +21,8 @@ One trend we can observe based on the precipitation plot is that some months hav
 
 
 #### June and December Summary Statistics [Temperature]
-![June_Temps_Summary_Stats](june_temps_summary_stats.png)
-![December_Temps_Summary_Stats](december_temp_summary_stas.png)
+![June_Temps_Summary_Stats](images/june_temps_summary_stats.png)
+![December_Temps_Summary_Stats](images/december_temp_summary_stas.png)
 
 #### Interpreting the June and December Temperature Results
 Using a T-Test, we can detrmine if the mean temperature values are different for the two months. To do so, we have to define our Null and Alternate Hypothesis.
@@ -39,8 +39,8 @@ We have a very small P-value to reject the Null Hypothesis. This means even thou
 Our additional query 1 provides summary statistics for June and December for precipitation
 
 #### June and December Summary Statistics [Precipitation]
-![June_Prcp_Summary_Stats](june_prcp_summay_stats.png)
-![December_Prcp_Summary_Stats](december_prcp_summary_stats.png)
+![June_Prcp_Summary_Stats](images/june_prcp_summay_stats.png)
+![December_Prcp_Summary_Stats](images/december_prcp_summary_stats.png)
 
 #### Interpreting the June and December Precipitation Results
 Using a T-Test, we can detrmine if the mean precipitation values are different for the two months. To do so, we have to define our Null and Alternate Hypothesis.
@@ -57,11 +57,11 @@ We have a very small P-value to reject the Null Hypothesis. This means even thou
 Our additional query 2 provides insight into the top 5 stations that recorded the highest temperature and precipitation for the months of june and december
 
 #### Top 5 Temperatures for June and December and their Stations
-![Top_Stations_June_Temps](top_stations_june_temps.png)
-![Top_Stations_December_Temps](top_station_december_temps.png)
+![Top_Stations_June_Temps](images/top_stations_june_temps.png)
+![Top_Stations_December_Temps](images/top_station_december_temps.png)
 
 #### Top 5 Precipitations for June and December and their Stations
-![Top_Stations_June_Prcp](top_station_june_prcp.png)
-![Top_Stations_December_Prcp](top_station_december_prcp.png)
+![Top_Stations_June_Prcp](images/top_station_june_prcp.png)
+![Top_Stations_December_Prcp](images/top_station_december_prcp.png)
 
 Additionlly, we can add the latitude and longitude details of the each station, and translate them to actual locations, our query can illuminate the locations with the highest temperatures and precipitation and thus inform where to setup our surfing business.
